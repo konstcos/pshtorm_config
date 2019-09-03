@@ -1,8 +1,12 @@
 <code_scheme name="Default" version="173">
   <PHPCodeStyleSettings>
+    <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
   </PHPCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="PHP">
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
 </code_scheme>
