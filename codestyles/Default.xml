@@ -14,4 +14,9 @@
   <codeStyleSettings language="PHP">
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
