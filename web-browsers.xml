@@ -1,0 +1,6 @@
+<application>
+  <component name="WebBrowsersConfiguration">
+    <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" />
+    <browser id="ee6638dc-5721-4a2e-8bf8-32f27ede4657" name="Chrome" family="CHROME" />
+  </component>
+</application>
