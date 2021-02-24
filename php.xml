@@ -1,0 +1,7 @@
+<application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="6fbacd56-9335-411a-b88e-c6894b8dffbc" name="PHP 7.1" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+</application>
