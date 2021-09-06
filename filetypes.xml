@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="trade_manager_access_ip" type="AUTO_DETECTED" />
       <mapping pattern="admin_access_ip" type="AUTO_DETECTED" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
