@@ -4,6 +4,7 @@
       <mapping pattern="admin_access_ip" type="AUTO_DETECTED" />
       <mapping pattern="trade_manager_access_ip" type="AUTO_DETECTED" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
