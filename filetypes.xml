@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping pattern="admin_access_ip" type="AUTO_DETECTED" />
       <mapping pattern="trade_manager_access_ip" type="AUTO_DETECTED" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.productions.local" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
