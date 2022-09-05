@@ -3,11 +3,11 @@
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.16.0/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.14.0/bin/node">
-      <version-cache last-modified="0" />
-    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.config/versions/node/v16.14.0/bin/node">
       <version-cache version="16.14.0" last-modified="1644324544000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.14.0/bin/node">
+      <version-cache last-modified="0" />
     </local-interpreter>
   </component>
 </application>
